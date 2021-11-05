@@ -35,6 +35,3 @@ do
     done
     echo "$v_count views dumped from database '$db' into dir=$DIR"
 done
-
-
-SELECT routine_definition FROM information_schema.routines where ;
